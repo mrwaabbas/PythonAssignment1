@@ -16,7 +16,6 @@ Data: https://docs.google.com/spreadsheets/d/1lB7ZSbulhxDSkYnIYzOn8OA2ushTy1mX9q
 
 This notebook shows how I analyzed the data: http://localhost:8888/notebooks/dataProjects/Analysis1.ipynb?
 
-Next, I analyzed the cleaned data using Pandas in Python. 
 I read the CSV file into a DataFrame and used Python to count the number of evictions per borough in order to determine which one had the highest total. 
 
 I also calculated the mode to see if a particular neighborhood was experiencing disproportionately high eviction rates, and whether it was located in the same borough with the overall highest rate.
