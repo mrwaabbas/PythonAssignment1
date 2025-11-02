@@ -24,3 +24,7 @@ I also calculated the mode to see if a particular neighborhood was experiencing 
 # Analysis Summary
 
 Here is the analysis of the data: https://docs.google.com/document/d/1PCyoUPWeC4sKBrB-4BYTVAkLMzNbBoH1JbOOYk8d2as/edit?tab=t.0
+
+The data tells the story of the Bronx, a borough in NYC that experiences racial and economic inequities as shown in the high number of evictions. While evictions is only a part of the issues that persist in the Bronx, this data shows how the economic inequities they are experiencing is showing up. 
+
+This data can be used to tell a story about how developers and landlords may betaking advantage of rent payers here. It can also be a story about how housing policy fails residents in New York. The data can also be used to go into more details about zip codes and see if there are developers or landlords who are monoplizing housing in specific areas. 
